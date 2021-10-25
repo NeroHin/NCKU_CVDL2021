@@ -1,1 +1,1 @@
-NCKU_CVDL2021
+# Only for storage NCKU CVDL course homework.
